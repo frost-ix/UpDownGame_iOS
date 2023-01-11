@@ -1,5 +1,6 @@
 # UpDownGame_iOS
-Original Code : https://yagom.net/courses/ios-starter-uikit/
+<h3>Original Code</h3>
+From : https://yagom.net/courses/ios-starter-uikit/
 
 ## Specification
 - xcode version: 14.1 <br>
