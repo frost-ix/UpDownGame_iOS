@@ -1,4 +1,4 @@
-#text{
+#lineText{
 	font-color : brown;
 }
 
@@ -6,9 +6,9 @@
 Original Code : https://yagom.net/courses/ios-starter-uikit/
 
 <h2>Specification</h2>
-<span id="text">xcode version</span>: 14.1 <br>
-Build iOS version : 16.1 <br>
-Used device : iPhone 13 pro, MacbookPro M1 (16GB, 256GB) <br>
+<span id="lineText">xcode version</span>: 14.1 <br>
+> Build iOS version : 16.1 <br>
+> Used device : iPhone 13 pro, MacbookPro M1 (16GB, 256GB) <br>
 
 
 <h2>Changes</h2>
