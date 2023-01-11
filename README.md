@@ -1,17 +1,12 @@
-#lineText{
-	font-color : brown;
-}
-
 # UpDownGame_iOS
 Original Code : https://yagom.net/courses/ios-starter-uikit/
 
-<h2>Specification</h2>
-<span id="lineText">xcode version</span>: 14.1 <br>
-> Build iOS version : 16.1 <br>
-> Used device : iPhone 13 pro, MacbookPro M1 (16GB, 256GB) <br>
+## Specification
+- xcode version: 14.1 <br>
+- Build iOS version : 16.1 <br>
+- Used device : iPhone 13 pro, MacbookPro M1 ( 16GB, 256GB ) <br>
 
-
-<h2>Changes</h2>
+## Changes
 - Different position ( reset button & informaion button ) <br>
 - Maximum value = 50 <br>
 - default slider value : 25 <br><br>
